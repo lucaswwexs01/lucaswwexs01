@@ -1,7 +1,7 @@
 # Olá, eu sou Lucas Queiroz Mendes! 👋
 
 ## Sobre mim
-Sou um desenvolvedor de software apaixonado. , tenho 22 anos de idade. Especializado em criar experiências de usuário dinâmicas com JavaScript no front-end, e construir aplicações robustas em Python no back-end.
+Sou um desenvolvedor de software apaixonado , tenho 22 anos de idade, e sou especializado em criar experiências de usuário dinâmicas com JavaScript no front-end, e construir aplicações robustas em Python no back-end.
 
 ## Habilidades
 Conhecimentos em Python
