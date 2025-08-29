@@ -6,7 +6,7 @@
 Sou um desenvolvedor de software apaixonado por tecnologia e resolução de problemas.  
 Tenho 23 anos e sou especializado em **JavaScript no front-end** e em **PHP/Laravel** e **Python/Django** no back-end, criando aplicações seguras, escaláveis e com experiências de usuário incríveis.  
 
-Atualmente, lidero projetos pela **Trinext** (minha Software House), desenvolvendo sistemas web, CRMs, e plataformas completas.  
+Atualmente, lidero projetos pela **Trinext** , desenvolvendo sistemas sob-medida para empresas parceiras.  
 
 ---
 
