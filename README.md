@@ -4,7 +4,7 @@
 
 ##  Sobre mim  
 Sou um desenvolvedor de software apaixonado por tecnologia e resolução de problemas.  
-Tenho 23 anos e sou especializado em **JavaScript no front-end** e em **PHP/Laravel**,  **Node/Express** e **Python/Django** no back-end, criando aplicações seguras, escaláveis e com experiências de usuário incríveis.  
+Tenho 24 anos e sou especializado em **JavaScript no front-end** e em **PHP/Laravel**,  **Node/Express** e **Python/Django** no back-end, criando aplicações seguras, escaláveis e com experiências de usuário incríveis.  
 
 Atualmente, lidero projetos pela **Trinext** , desenvolvendo sistemas sob-medida para empresas parceiras.  
 
