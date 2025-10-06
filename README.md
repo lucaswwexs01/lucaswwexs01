@@ -10,48 +10,48 @@ Atualmente, lidero projetos pela **Trinext** , desenvolvendo sistemas sob-medida
 
 ---
 
-## 🛠 Tecnologias e Ferramentas  
-- **Back-end:** PHP (Laravel), Python (Django, Kivy)  
-- **Front-end:** JavaScript (ES6+), jQuery, HTML, CSS, Bootstrap  
+##  Tecnologias e Ferramentas  
+- **Back-end:** PHP (Laravel), Node.js, Express, Sequelize, Python (Django, Kivy), 
+- **Front-end:** JavaScript, jQuery, React , React Native, tailwind,  bootstrap.
 - **Testes:** Cypress, Testes Automatizados  
-- **Banco de Dados:** MySQL  
-- **Outros:** Manutenção e suporte técnico  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Outros:** Negociação e Regras de negociação
 
 ---
 
-## 💼 Experiência Profissional  
-- 👨‍💻 **Desenvolvedor Web Júnior** — *Força Aérea Brasileira*  
+##  Experiência Profissional  
+-  **Desenvolvedor Web Júnior** — *Força Aérea Brasileira*  
   - Desenvolvimento e manutenção de sistemas internos.  
-- 💻 **Desenvolvedor Web** — *Evenyx (maior ticketeira do Nordeste)*  
+-  **Desenvolvedor Web** — *Evenyx (maior ticketeira do Nordeste)*  
   - Criação de soluções para sistemas de eventos e bilheteria online. 
-- 💻 **Tech Lead** — *PlanetaNet (desenvolvia soluções para outras empresas B2B)*  
+-  **Tech Lead** — *PlanetaNet (desenvolvia soluções para outras empresas B2B)*  
   - Criação de soluções para sistemas de eventos e bilheteria online.  
-- 🚀 **CEO & Desenvolvedor** — *Trinext*  
+-  **CEO & Desenvolvedor** — *Trinext*  
   - Desenvolvimento de softwares sob medida (CRMs, E-commerce, SaaS e sistemas personalizados).  
 
 ---
 
-## 📂 Projetos em Destaque  
-- **Rede Social Esportiva** ⚽  
+##  Projetos em Destaque  
+- **Rede Social Esportiva** 
   Uma rede social para atletas, treinadores e instituições, integrada a um e-commerce e sistema de eventos.  
 
-- **Gerenciador de Mensalidades SaaS** 💰  
+- **Gerenciador de Mensalidades SaaS**  
   Plataforma para empresas de tecnologia oferecerem tempo de desenvolvimento como serviço, com planos escaláveis.  
 
-- **Sistemas Corporativos Internos** 🏢  
+- **Sistemas Corporativos Internos**   
   CRMs, dashboards e automações para empresas otimizarem processos.  
 
 ---
 
-## 📬 Contato  
+##  Contato  
 Se você busca um desenvolvedor dedicado, versátil e focado em qualidade, vamos conversar!  
 
-🌐 (https://trinext.com.br)  
-✉️ **lucaswwexs@gmail.com**  
+ (https://trinext.com.br)  
+ **lucaswwexs@gmail.com**  
 
 ---
 
-### 💡 "Código limpo e soluções simples constroem sistemas duradouros."  
+###  "Código limpo e soluções simples constroem sistemas duradouros."  
 
 ---
 
