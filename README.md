@@ -51,13 +51,3 @@ Se você busca um desenvolvedor dedicado, versátil e focado em qualidade, vamos
 
 ---
 
-###  "Código limpo e soluções simples constroem sistemas duradouros."  
-
----
-
-```bash
-# Vamos criar algo juntos?
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
-npm install
-npm run dev
